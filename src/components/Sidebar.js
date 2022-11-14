@@ -65,26 +65,6 @@ function Sidebar(){
 			
 			<hr className="sidebar-divider d-none d-md-block"/>
 		</ul>
-		
-
-		
-		<div id="content-wrapper" className="d-flex flex-column">
-			<div id="content">
-
-				
-				<nav className="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow">
-
-					
-					<button id="sidebarToggleTop" className="btn btn-link d-md-none rounded-circle mr-3">
-						<i className="fa fa-bars"></i>
-					</button>
-
-					
-					
-
-				</nav>
-                </div>
-            </div>
     </body>
 
     </div>
