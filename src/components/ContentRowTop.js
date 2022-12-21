@@ -3,6 +3,7 @@ import '../assets/css/app.css';
 import ContentRowMovies from './ContentRowTop/ContentRowMovies'
 import LastMovieInDb from './ContentRowTop/LastMovieInDb'
 import GenresInDb  from './ContentRowTop/GenresInDb'
+import PropTypes from 'prop-types';
 function ContentRowTop(){
     return(
         <div className="container-fluid">
